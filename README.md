@@ -1,7 +1,7 @@
 ### print("Hi there 👋")
 
 ```
-Husband. Nerd. Fat.
+CTRL c CTRL v everything.
 ```
 <!--
 **jxlow/jxlow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
